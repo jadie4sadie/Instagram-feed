@@ -1,0 +1,28 @@
+body{
+    background: grey;
+    justify-content: center;
+    display: flex;
+}
+.president{
+    width: 600px;
+}
+
+.vice{
+    background-color: white;
+    /* padding: 10px; */
+    /*  */
+}
+.header{
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 100%;
+}
+p{
+    padding: 10px;
+}
+
